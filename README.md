@@ -1,4 +1,4 @@
-# Hangman
+# Hangman Game
 *[Aline D'Intino]*
 
 *[Data Analytics, Amsterdam July 18th]*
