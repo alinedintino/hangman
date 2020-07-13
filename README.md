@@ -1,7 +1,7 @@
 # Hangman Game
-*[Aline D'Intino]*
+*Aline D'Intino*
 
-*[Data Analytics, Amsterdam July 18th]*
+*Data Analytics, Amsterdam July 18th*
 
 ## Content
 - [Project Description](#project-descriptioitn)
