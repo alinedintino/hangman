@@ -43,5 +43,5 @@ This repository has the following files:
 
 ## Links
 [Repository](https://github.com/alinedintino/hangman)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1Tyi1RYFnQDxTto-BYwnhmPHIbP_whbHZhlopGyqil2Y/edit?usp=sharing)  
 [Trello](https://trello.com/b/SmEpjACd/project-1-aline) 
